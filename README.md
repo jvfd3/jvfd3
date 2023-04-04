@@ -64,8 +64,8 @@ codersrank
 
 [LinkLattes]: lattes.cnpq.br/2335804614447803
 [LinkLinkedIn]: linkedin.com/in/jvfd3/
-[LinkCVEN]: linkedin.com/in/jvfd3/jvfd3/Files/EN-CV-João_Vítor_Fernandes_Dias.pdf
-[LinkCVPTBR]: linkedin.com/in/jvfd3/jvfd3/Files/PTBR-CV-João_Vítor_Fernandes_Dias.pdf
+[LinkCVEN]: ./Files/EN-CV-João_Vítor_Fernandes_Dias.pdf
+[LinkCVPTBR]: ./Files/PTBR-CV-João_Vítor_Fernandes_Dias.pdf
 [LinkAvatarMeme]: https://media.tenor.com/GmL-J3QYw94AAAAC/aang-previous-avatars.gif
 [LinkYouTubePlaylist]: music.youtube.com/playlist?list=PLC50eYMsqq-hSxpLhNdbqJUq6tZvLHvcD
 [LinkGitHub]: github.com/jvfd3/
