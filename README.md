@@ -62,19 +62,19 @@ codersrank
 
 <!-- ## Links -->
 
-[LinkLattes]: lattes.cnpq.br/2335804614447803
-[LinkLinkedIn]: linkedin.com/in/jvfd3/
+[LinkLattes]: https://lattes.cnpq.br/2335804614447803
+[LinkLinkedIn]: https://linkedin.com/in/jvfd3/
 [LinkCVEN]: ./Files/EN-CV-João_Vítor_Fernandes_Dias.pdf
 [LinkCVPTBR]: ./Files/PTBR-CV-João_Vítor_Fernandes_Dias.pdf
 [LinkAvatarMeme]: https://media.tenor.com/GmL-J3QYw94AAAAC/aang-previous-avatars.gif
 [LinkYouTubePlaylist]: music.youtube.com/playlist?list=PLC50eYMsqq-hSxpLhNdbqJUq6tZvLHvcD
-[LinkGitHub]: github.com/jvfd3/
-[LinkRepoUENFCC]: github.com/jvfd3/UENF_CC
-[LinkRepoUENFTT]: github.com/jvfd3/UENF-timetabling
-[LinkGitHubDaniBrito]: github.com/danibritods
-[LinkGitHubDaniTerra]: github.com/ARRETdaniel
-[LinkGitHubRepos]: github.com/jvfd3?tab=repositories
-[LinkRepoIC]: github.com/jvfd3/IC-2019_2022-Robotic_Arm
-[LinkRepoTag]: github.com/jvfd3/project-tag
+[LinkGitHub]: https://github.com/jvfd3/
+[LinkRepoUENFCC]: https://github.com/jvfd3/UENF_CC
+[LinkRepoUENFTT]: https://github.com/jvfd3/UENF-timetabling
+[LinkGitHubDaniBrito]: https://github.com/danibritods
+[LinkGitHubDaniTerra]: https://github.com/ARRETdaniel
+[LinkGitHubRepos]: https://github.com/jvfd3?tab=repositories
+[LinkRepoIC]: https://github.com/jvfd3/IC-2019_2022-Robotic_Arm
+[LinkRepoTag]: https://github.com/jvfd3/project-tag
 [LinkGitHubPrettyThingA]: https://github-readme-stats.vercel.app/api?username=jvfd3&count_private=true&show_icons=true&theme=transparent&hide_border=true
 [LinkGitHubPrettyThingB]: https://github-readme-stats.vercel.app/api/top-langs/?username=jvfd3&layout=compact&langs_count=10&theme=transparent&hide_border=true
