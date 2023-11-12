@@ -20,6 +20,7 @@ My name is João Vítor Fernandes Dias and I hope that you find my work somewhat
 - Pockets
 - USB-C
 - GIFs
+- Keyboard Shortcuts
 - [Random music][LinkYouTubePlaylist]
 - Learning
 - Teaching
