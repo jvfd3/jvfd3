@@ -33,6 +33,7 @@ My name is João Vítor Fernandes Dias and I hope that you find my work somewhat
   - :flushed: flushed
 - Some phrases
   > [...] no precinho
+  > 
   > [...] pra apaziguar a mente
 
 ## What I'm up to now
