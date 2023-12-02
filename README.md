@@ -35,6 +35,9 @@ My name is João Vítor Fernandes Dias and I hope that you find my work somewhat
   > [...] no precinho
   > 
   > [...] pra apaziguar a mente
+- Some words
+  - Configura
+  - Ventila
 
 ## What I'm up to now
 
