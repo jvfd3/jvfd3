@@ -38,6 +38,10 @@ My name is João Vítor Fernandes Dias and I hope that you find my work somewhat
 - Some words
   - Configura
   - Ventila
+- Some expressions
+  - "o mar não tá pra peixe"
+  - ...
+  
 
 ## What I'm up to now
 
