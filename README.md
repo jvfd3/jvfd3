@@ -35,6 +35,10 @@ My name is João Vítor Fernandes Dias and I hope that you find my work somewhat
   > [...] no precinho
   > 
   > [...] pra apaziguar a mente
+  >
+  > só pedrada
+  >
+  > E lá segue maturando no mundo das ideias
 - Some words
   - Configura
   - Ventila
