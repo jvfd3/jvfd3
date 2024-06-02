@@ -23,29 +23,27 @@ My name is João Vítor Fernandes Dias and I hope that you find my work somewhat
 - Keyboard Shortcuts
 - [Random music][LinkYouTubePlaylist]
 - Learning
+- Pasta
 - Teaching
 - Talking
 - Time travel
 - Organization
+- Tables
 - Emoji Keywords
   - :persevere: persevere
   - :grimacing: grimacing
   - :flushed: flushed
 - Some phrases
-  > [...] no precinho
-  > 
-  > [...] pra apaziguar a mente
-  >
-  > só pedrada
-  >
-  > E lá segue maturando no mundo das ideias
+  - > [...] no precinho
+  - > [...] pra apaziguar a mente
+  - > só pedrada
+  - > E lá segue maturando no mundo das ideias
 - Some words
-  - Configura
-  - Ventila
+  - > Configura
+  - > Ventila
 - Some expressions
-  - "o mar não tá pra peixe"
-  - ...
-  
+  - > o mar não tá pra peixe
+  - > velho truque
 
 ## What I'm up to now
 
@@ -57,6 +55,70 @@ My name is João Vítor Fernandes Dias and I hope that you find my work somewhat
 
 - I'll fill this later, but [here][LinkGitHubRepos] are my repositories
 
+<!-- 
+- TabletopFiles (Public)
+- timetabling-UENF (Public)
+- ERUMATCG-TESTE (Private)
+- SkillsCamps-WebTechnologies (Private)
+- IFFriends (Public)
+  - Rede Social IFF
+- FastFreeMinecraftServer (Public)
+  - The concept of this project is to automate most of the server building and configurating so that with just a couple of clicks and some more minutes, a 24/7 Minecraft server is live and running.
+- myPrivateFiles (Private)
+  - a kind of drive to save my personal files
+- project-tag (Public)
+- RandomSmallCodes (Private)
+  - Some random codes that I did over the years
+- jvfd3 (Public)
+  - My github frontpage
+- RPG_stuff (Public)
+  - Just storing some RPG Stuff
+- IC-2019_2022-Robotic_Arm (Public)
+This repository will contain all of my files regarding my years as a scientific initiation scholarship holder.
+- jvfd3.github.io (Public)
+- my-sleep-time (Public)
+An attemp to create a graph of my sleep time from 2023 importing from notion
+- first-combot (Private)
+- introds (Public)
+🇧🇷 Introduction to Data Science - summer course I've organized
+- UENF_CC-Teste_de_Software (Public)
+A repository to store all content related to the class of Software Testing
+- UENF-timetabling (Public)
+...
+- UENF_CC (Public)
+Esse repositório visa disponibilizar conteúdo de todo o curso de Ciência da Computação ao futuros calouros
+- C-Plotting (Public)
+Attempt of plotting using C
+- misc_programs (Public)
+- GroupedFriends (Private)
+The friends I have and their friends
+- university_demand (Private)
+Helping course's coodinator to discover its classes demand
+- lightshot_scrapper (Private)
+I intend on downloading a considerable amount of images and then testing them in a pattern recognition model or something like that
+- Object_Oriented_Software_Development (Public archive)
+As the name suggests, it is a project to develop a software aimed at object oriented programming.
+- Computer_Graphics_Introduction-CS_UENF (Public)
+This repository will contain all my content related to this class
+- DataScienceWithR (Public)
+All the code used for a CS class about using R for Data Science
+- UENF_CS-Compilers (Private archive)
+Codes for the class Compiles from the Computer Science course at UENF
+- DataStructure (Public archive)
+Implementing Data Structure using C
+- KITTI_visual_odometry (Public)
+Forked from FoamoftheSea/KITTI_visual_odometry
+Tutorial for working with the KITTI odometry dataset in Python with OpenCV. Includes a review of Computer Vision fundamentals.
+- nlw-2021 (Public)
+- desktop-tutorial (Private)
+GitHub Desktop tutorial repository
+- latex-javaScript (Public)
+Forked from xgirma/latex-javaScript
+typeset JavaScript codes in Latex
+- relative-image-url (Public)
+Forked from mark-anders/relative-image-url
+A simple test of using relative URL in .MD files -->
+
 ## What I intend on doing
 
 - Completely organize my [IC repo][LinkRepoIC]
@@ -66,6 +128,7 @@ My name is João Vítor Fernandes Dias and I hope that you find my work somewhat
 - Many CS topics such as
   - Machine Learning
   - Computer Vision
+  - Web Scraping
 
 <!--
 codersrank
