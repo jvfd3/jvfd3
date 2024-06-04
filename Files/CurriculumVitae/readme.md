@@ -14,7 +14,7 @@ Adoro aprender coisas novas, sou muito curioso e questionador. Tenho como objeti
 - EMAIL: <joaovitorfd2000@gmail.com>
 
 [LinkWhatsApp]: https://api.whatsapp.com/send?phone=5522999599065&text=Ol%C3%A1!%20Achei%20teu%20curr%C3%ADculo%20interessante%20e%20gostaria%20de%20saber%20sobre%20sua%20disponibilidade%20para%20conversarmos
-[LinkLattes]: http://lattes.cnpq.br/2335804614447803
+[LinkLattes]: https://lattes.cnpq.br/2335804614447803
 [LinkGitHub]: https://github.com/jvfd3
 [LinkLinkedIn]: https://www.linkedin.com/in/jvfd3/
 
