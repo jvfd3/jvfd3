@@ -8,9 +8,9 @@ Adoro aprender coisas novas, sou muito curioso e questionador. Tenho como objeti
 
 - TELEFONE: [+55 (22) 99959-9065][LinkWhatsApp]
 - SITES:
-  - [http://lattes.cnpq.br/2335804614447803][LinkLattes]
-  - [https://github.com/jvfd3][LinkGitHub]
-  - [https://www.linkedin.com/in/jvfd3/][LinkLinkedIn]
+  - [Lattes][LinkLattes]
+  - [GiHhub][LinkGitHub]
+  - [LinkedIn/][LinkLinkedIn]
 - EMAIL: <joaovitorfd2000@gmail.com>
 
 [LinkWhatsApp]: https://api.whatsapp.com/send?phone=5522999599065&text=Ol%C3%A1!%20Achei%20teu%20curr%C3%ADculo%20interessante%20e%20gostaria%20de%20saber%20sobre%20sua%20disponibilidade%20para%20conversarmos
