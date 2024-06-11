@@ -139,6 +139,37 @@ codersrank
 ![jvfd3 GitHub stats A][LinkGitHubPrettyThingA]
 ![jvfd3 GitHub stats B][LinkGitHubPrettyThingB]
 
+## [Proving Tom 7 is wrong][TomSeven]
+
+<details>
+
+<summary>The actual biggest integer</summary>
+
+$$
+\left(
+  \prod_{k=2}^{2^{32768}}
+  \prod_{j=2}^{k^{8675309}}
+  2^{j! ^{k!}!}
+\right)^{
+\left(
+  \left(
+    \sum_{p=2}^{2718281828}
+    p^{p!}!!!!
+  \right)^{
+    \left(
+      \begin{pmatrix}
+        \prod_{i=1}^{2^{3021377}} i!i^{i!} 9999^{i^{i^{2i}}}!!
+        \\
+        2^{4294967296}
+      \end{pmatrix}^{65537}
+    \right)
+  }
+\right)
+}+1
+$$
+
+</details>
+
 <!-- ## Links -->
 
 [LinkLattes]: https://lattes.cnpq.br/2335804614447803
@@ -157,3 +188,4 @@ codersrank
 [LinkRepoTag]: https://github.com/jvfd3/project-tag
 [LinkGitHubPrettyThingA]: https://github-readme-stats.vercel.app/api?username=jvfd3&count_private=true&show_icons=true&theme=transparent&hide_border=true
 [LinkGitHubPrettyThingB]: https://github-readme-stats.vercel.app/api/top-langs/?username=jvfd3&layout=compact&langs_count=10&theme=transparent&hide_border=true
+[TomSeven]: https://www.cs.cmu.edu/~tom7/number/index.html
