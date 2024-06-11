@@ -20,13 +20,13 @@ Adoro aprender coisas novas, sou muito curioso e questionador. Tenho como objeti
 
 ## Passatempos
 
-- Jogar jogos de tabuleiro e RPG
-- Desenvolver projetos pessoais
-- Me divertir com meus amigos
-- Ver séries e animes
-- Conversar
-- Aprender
 - Ler
+- Aprender
+- Conversar
+- Ver séries e animes
+- Me divertir com meus amigos
+- Desenvolver projetos pessoais
+- Jogar jogos de tabuleiro e RPG
 
 ## Educação
 
