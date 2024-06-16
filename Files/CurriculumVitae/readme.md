@@ -30,13 +30,21 @@ Adoro aprender coisas novas, sou muito curioso e questionador. Tenho como objeti
 
 ## Educação
 
-### Ensino Médio: Centro Educacional Nossa Senhora Auxiliadora (02/2012~12/2018)
+### Ensino Médio: [Centro Educacional Nossa Senhora Auxiliadora (02/2012~12/2018)][ImgEnsinoMedio]
 
 Participei de shows de talentos, teatros e uma competição de robótica na qual minha equipe ficou em primeiro lugar.
 
-### Ensino Técnico: Instituto Federal Fluminense - Técnico em informática (03/2016~03/2019)
+<!-- ![Certificado de conclusão do Ensino Médio][ImgEnsinoMedio] -->
+
+[ImgEnsinoMedio]: <../Certificates/Courses/20181200-CENSA_HighSchool/20181228 - CENSA - Certificado de Conclusão do Ensino Médio - Reconhecimento de Firma.jpg>
+
+### Ensino Técnico: [Instituto Federal Fluminense - Técnico em informática (03/2016~03/2019)][ImgTecnico]
 
 Participei da peça "Sonho de uma Noite de Verão", aprendi a utilizar as linguagens C, PHP, SQL, HTML e CSS. Como trabalho de conclusão de curso, minha equipe desenvolveu uma rede social para uso interno.
+
+<!-- ![Certificado de conclusão do Curso Técnico em Informática][ImgTecnico] -->
+
+[ImgTecnico]: <../Certificates/Courses/20190502-IFF-ComputerTechnician/20190530 - IFF - Diploma de Técnico em Informática - Frente.png>
 
 ### Ensino Superior: Universidade Estadual do Norte Fluminense Darcy Ribeiro - Bacharelado em Ciência da Computação (03/2019~06/2024)
 
