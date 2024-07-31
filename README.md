@@ -171,11 +171,10 @@ $$
 </details>
 
 <!-- ## Links -->
-
 [LinkLattes]: https://lattes.cnpq.br/2335804614447803
 [LinkLinkedIn]: https://linkedin.com/in/jvfd3/
-[LinkCVEN]: ./Files/EN-CV-João_Vítor_Fernandes_Dias.pdf
-[LinkCVPTBR]: ./Files/PTBR-CV-João_Vítor_Fernandes_Dias.pdf
+[LinkCVEN]: ./Files/CurriculumVitae/EN-CV-João_Vítor_Fernandes_Dias.pdf
+[LinkCVPTBR]: ./Files/CurriculumVitae/PTBR-CV-João_Vítor_Fernandes_Dias.pdf
 [LinkAvatarMeme]: https://media.tenor.com/GmL-J3QYw94AAAAC/aang-previous-avatars.gif
 [LinkYouTubePlaylist]: music.youtube.com/playlist?list=PLC50eYMsqq-hSxpLhNdbqJUq6tZvLHvcD
 [LinkGitHub]: https://github.com/jvfd3/
